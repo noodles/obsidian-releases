@@ -1,5 +1,12 @@
 [
     {
+        "id": "libby-importer",
+        "name": "Libby Reading Data Importer",
+        "author": "Rich Hall",
+        "description": "Import Libby JSON reading data.",
+        "repo": "noodles/obsidian-libby-import-plugin"
+    },
+   {
         "id": "nldates-obsidian",
         "name": "Natural Language Dates",
         "author": "Argentina Ortega Sainz",
